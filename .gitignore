@@ -24,3 +24,6 @@ libs/gpu/build/
 output/
 .caches
 
+venv/*
+venv
+
